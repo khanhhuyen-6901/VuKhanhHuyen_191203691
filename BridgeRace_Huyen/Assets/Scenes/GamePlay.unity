@@ -2380,7 +2380,7 @@ MonoBehaviour:
   speed: 5
   moveSpeed: 20
   offset: {x: 0, y: 5, z: -15}
-  cameraPoint: {x: -11, y: 2, z: -79}
+  cameraPoint: {x: -10.8, y: 2, z: -83}
   player: {fileID: 1590327116}
 --- !u!224 &1240751762 stripped
 RectTransform:
