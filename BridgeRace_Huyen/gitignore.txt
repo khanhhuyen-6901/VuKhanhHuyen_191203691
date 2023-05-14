@@ -1,0 +1,12 @@
+/.vs/
+/.vscode/
+/Library/
+/Logs/
+/obj/
+*.csproj
+*.sln
+*.userprefs
+/Assembly-UnityScript-firstpass.unityproj
+/Temp/
+*.vsconfig
+/Builds/
